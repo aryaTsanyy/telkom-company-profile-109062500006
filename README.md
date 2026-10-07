@@ -10,3 +10,7 @@ Proyek simulasi untuk mempelajari HTML, CSS, PHP native, MySQL/MariaDB, dan Git.
 4. Buka `http://localhost/telkom-company-profile-final/`.
 
 > Catatan: seluruh konten institusi bersifat simulasi untuk pembelajaran.
+
+## Riwayat Praktikum Git.
+
+![Screenshot Git Log](assets/images/image.png)
