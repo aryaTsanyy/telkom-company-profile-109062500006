@@ -17,6 +17,13 @@ require 'includes/header.php';
             <div class="alert alert-success">
                 Konten institusi pada website ini bersifat simulasi untuk keperluan praktikum.
             </div>
+            <h2>Fokus Pembelajaran</h2>
+            <ul>
+                <li>Penggunaan struktur PHP native.</li>
+                <li>Manajemen basis data dengan MySQL.</li>
+                <li>Penerapan version control dengan Git.</li>
+            </ul>
+
         </div>
     </section>
 <?php require 'includes/footer.php'; ?>
